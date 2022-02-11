@@ -1,2 +1,1 @@
-# ZOHO_ONLINE_INTERVIEW_ASSIGNMENT
- Role Hierarchy: Assume you start a company and you are going to recruit people for different roles. Before that, you have to design the roles and its hierarchy. So to make it simple, develop a program that creates and maintains roles and its hierarchy. See the example role hierarchy below.
+Kindly Use Eclipse to run. Navigate to src/Implement_Hierachy/Main_Function to locate main method. Kindly connect to internet before running it. I have also attached all Outputs.
